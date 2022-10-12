@@ -1,3 +1,3 @@
 # Recommender_Systems
 
-This repo is an atrempt at creating a state of the art RS using matrix factorization, Single Variable Decomposition and Kmeans clustering etc
+This repo is an attempt at creating a state of the art RS using matrix factorization, collaborative filtering, Single Variable Decomposition and Kmeans clustering etc
